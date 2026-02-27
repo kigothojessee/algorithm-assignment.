@@ -1,2 +1,2 @@
-# algorithm-assignment.
-This is a C++ implementation of Insertion Sort.
+NAME: JESSEE KIGOTHO KAMANGA
+REG NO: EB3/61509/22
